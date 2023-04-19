@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-viana-45a047245/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuviana)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuviana)](https://github.com/anuraghazra/github-readme-stats)
-![Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=samuviana&show_icons=true&theme=synthwave) 
+
+![Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=samuviana&show_icons=true&theme=radical) 
 
 ## Tecnologias que utilizo:
 
