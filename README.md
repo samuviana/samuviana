@@ -1,5 +1,5 @@
-### Olá eu sou o Samuel Viana 😆
-- 📧 samuvianag04@gmail.com
+### Olá eu sou o Samuel Viana 
+- samuvianag04@gmail.com
 
 
 ![Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=samuviana&show_icons=true&theme=transparent)
